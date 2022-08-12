@@ -1,2 +1,2 @@
 # Barbearia-Alura
-First dev project
+Aprendendo HTML5 e CSS3 no Alura
